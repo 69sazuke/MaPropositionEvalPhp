@@ -1,0 +1,23 @@
+/*                        Ceci est mon fichier de CSS principal                       */
+
+/*  1 - Je réinitialise les paramètres par défaut des navigateurs tels que les margin et paddin par exemple */
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    border: 1px solid black;
+    padding: 10px 30px 10px 30px;
+}
+
+img{
+    height: 60px;
+    margin-right: 100px;
+}
+
+a{
+    vertical-align: middle;
+    margin-right: 30px;
+}
